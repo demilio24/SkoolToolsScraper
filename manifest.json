@@ -1,6 +1,6 @@
 {
    "action": {
-      "default_icon": "pokeball64.png"
+      "default_icon": "SkoolTools64.png"
    },
    "background": {
       "service_worker": "background.js"
@@ -15,10 +15,10 @@
    },
    "description": "Skool Tools Scraper extracts data from web pages and exports it as Excel or CSV files",
    "icons": {
-      "128": "pokeball128.png",
-      "16": "pokeball16.png",
-      "32": "pokeball32.png",
-      "64": "pokeball64.png"
+      "128": "SkoolTools128.png",
+      "16": "SkoolTools16.png",
+      "32": "SkoolTools32.png",
+      "64": "SkoolTools64.png"
    },
    "incognito": "split",
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqJGGRgcNKZpQRZ4l4mbtQLvF/58wwR45S66fXKkQ7SicdP0Xt/PG3WrKTzsYER334TqsWGYb5NYXu1TmkG6rL+1YMedVqxoWGgeYSuqo5/0vEiZu5GNpCA6P7OrVM9vpG3PKgABUXBXg5Z+Z5lswMR33UhRyNKx6lFlckz18TxRmvQsXXScCDG/FcEtTtJnJabEBogtqqVy9G5mwUERVnNeDzjmntPWIHvQE/FNft9XcUQMvDuI7yBs5UfHb5XI2uquTXSDofJHrHTW2estOalW8feRHa7T60+V84y+pQT+46hfLTgOVhxQxoLBrHDVnk3VKFXph3lI2flErhmOBbQIDAQAB",
