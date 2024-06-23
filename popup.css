@@ -47,3 +47,24 @@ body {
 #infinateScrollElement {
     margin-left: 5px;
 }
+.logo-wrapper {
+    width: 100%;
+    text-align: right;
+}
+
+#logo {
+    width: max-content;
+    height: max-content;
+    .img {
+        width: 120px;
+    }
+}
+
+.status-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+
+html, body {
+    font-family: 'Roboto' !important;
+}
